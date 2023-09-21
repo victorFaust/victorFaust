@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajadi Victor
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Projects
+- 👀 I’m interested in .NET 
+- 🌱 I’m currently a Software Developer
+- 💞️ I’m looking to collaborate on .NET Projects
 - 📫 How to reach me WhatsApp(+234 8136446016)  Email (victorajadi44@gmail.com) Twitter(@victor_ajadi)
 
 <!---
